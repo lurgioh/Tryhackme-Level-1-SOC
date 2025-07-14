@@ -1,0 +1,54 @@
+In the Junior Security Analyst role, You will be a Triage Specialist
+
+Resonsibilities for a Junior Security Analyst or Tier 1 SOC operations enviroment
+-Monitor and investigate the alerts (most of the time, it's a 27x7 SOC operations enviroment
+-Configure and manage the security tools
+-Develop and implement basic IDS (Intrusion Detection Systems) signatures
+-Participate in SOC working groups, meetings
+-Create tickets and escalate the security incidents to the Tier 2 and Team Lead if needed
+
+Required qualification
+-0-2 years of experience with Security Operations
+-Basic understanding of Networking (OSI model(Open Systems Interconnection Model) or TCP/IP model (Transmission Control Protocol/Internet
+Protocol Model)), Operating Systems (Windows, Linux), Web applications. 
+-Scripting/Programming skills are a plus
+
+Three levels 
+Junior (Tier 1): 
+-Monitor the network traffic logs and events
+-Work on the tickets, closes the alerts
+-Performs basic investigations and mitigations
+
+Sec Ops Analyst (Tier 2):
+-Focuses on deeper investigations,analysis and remediation
+-Proactively hunts for adversaries
+-Monitors and resolves more complex alerts
+
+Sec Ops Analyst (Tier 3):
+-Works on more advanced investigations
+-Performs advanced threat hunting and adversary research
+-Malware reversing
+
+So what exactly is a SOC?
+
+Security Operations Center: 
+-investigate, monitor, prevent, and respond to threats in the cyber realm
+-Intellectual property, personnel data, business systems, and brand intefrity
+-Central point in coordinated efforts to monitor, access and defend agianst cyberattacks
+
+Included responsibilities of SOC?
+-Ticketing
+-Log Collection
+-Knowledge Base
+-Research and Development
+-Aggregation and Correlation
+-Threat Intelligence
+-SIEM: Security information and event managment
+-Reporting
+
+Preperation and Prevention
+-Stay up to date with current cyber security threats
+  Prevention methods include: 
+  -Gathering intelligence data on the latest threats, threat actors, and their TTPS (Tactics,Techniques,and Procedures)
+  -Also includes updating firewall signatures,patching the vulnerabilities in the existing systems, block-listing and safe-listing applications, email addresses, and IPs
+
