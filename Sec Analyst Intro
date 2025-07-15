@@ -52,3 +52,17 @@ Preperation and Prevention
   -Gathering intelligence data on the latest threats, threat actors, and their TTPS (Tactics,Techniques,and Procedures)
   -Also includes updating firewall signatures,patching the vulnerabilities in the existing systems, block-listing and safe-listing applications, email addresses, and IPs
 
+Monitoring and Investigation
+-SOC teams Proactively uses SIEM (Security Information and event managment) and EDR (Endpoint Detection and Response)
+-Prioritse the alerts based on their level: Low, Medium, High, and Critical
+
+Response
+-SOC team coordinates and takes action on the compromised hosts, which involves
+isolating the hosts from the network, terminating the malicious processes, deleting files
+
+Junior (Associate) Security Analyst
+- Monitor the network traffic, including IPS (Intrusion Prevention System) 
+and IDS (Intrusion Detection System) 
+- Alerts, suspicious emails, extract the forensics data to analyze and detect potential attacks
+-Using open-source intelligence to help make an appropriate decision
+
