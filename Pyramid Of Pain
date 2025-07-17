@@ -13,8 +13,18 @@ with a 128-bit hash value. MD5 hashes are NOT considered cryptographically secur
 -NIST recommeneds migrating from SHA-1 to stronger hash algorithms in the SHA-2 and 3 families
 -Security professionals usually use the hash values to gain insight into specific malware, a molicious or suspicious file,
 and as a way to uniquely identify and reference the malicious artifact
+-An attacker can modify a file even by a single bit which can produce a different hash value
+-With many variations and istances of known malware or ransomeware, threat hunting using file hashes as the IOC (Indicators of Compromise)
+can become difficult
 
 Tools
 -VirusTotal
 -Metadefender Cloud - OPSWAT
 
+IP Address
+-IP Address is used to idnetify any device connected to a network
+-Devices can range from CCTV cameras, desktops, and servers
+-Knowing IP addresses are a valuable assest as you can use common defense tatics to block, drop, or deny inbound requests from IP addresses on parameter or external firewall
+-One way an adversay can make it challenging to successfully carry out IP blocking is by using Fast Flux
+-According to Akamai, Fast Flux is a DNS technique use by botnets to hide phishing, web proxying, malware delivery, and malware communication activities behind compromised hosts acting as a proxy
+-The purpose of FAst Flux is to make communication between malware and its command and control server (C&C) challenging to be discovered
